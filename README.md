@@ -5,8 +5,7 @@
   <h2 align="center">Quizzler</h2>
 </p>
 <p align="center">
- A beautiful weather app which allows you to get the live weather data for the current location using the phone's GPS. Plus you'll be able to type in the name of the city that you want to check the weather for. 
-  Dark mode enabled.
+A multiple choice quiz app.
 </p>
 <br>
 
